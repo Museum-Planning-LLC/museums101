@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.museums101.com/sitemap.xml
+Sitemap: https://museums101.com/sitemap.xml
